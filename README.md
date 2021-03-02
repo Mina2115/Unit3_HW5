@@ -1,1 +1,2 @@
 https://codepen.io/mina2115/pen/zYojezp
+Problem 5 Answer: When I tied to add the Boston building features to the local scene view on ArcGIS online, it gave me an error message which said "Boston current buildings cannot be added, because the geographic coordinate systems are not supported for a scene layer in the local scene."   I think this is the reason why the building features were disappeared when I changed viewingMode to "local".
